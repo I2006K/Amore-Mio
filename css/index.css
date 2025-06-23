@@ -1,3 +1,4 @@
+
 /* HEADER */
 header {
   z-index: 1000;
@@ -5,7 +6,7 @@ header {
   position: fixed;
   border-radius: 2.5em;
   display: flex;
-  background-color: #F8F3EB;
+  background-color: #4E3E36;
   padding: 10px;
   justify-content: center;
 }
@@ -22,12 +23,13 @@ header div {
 }
 header a {
   font-size: 1.5em;
-  color: #4E3E36;
+  color: #9A7B6C;
   text-decoration: none;
   font-weight: bold;
 }
 header a:hover {
-  color: #9A7B6C;
+  color: #c79f8b;
+  text-decoration: none;
 }
 
 /* MAIN */
